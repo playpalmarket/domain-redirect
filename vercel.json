@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/preorder",
+      "destination": "https://docs.google.com/spreadsheets/d/1B0XPR4uSvRzy9LfzWDjNjwAyMZVtJs6_Kk_r2fh7dTw",
+      "permanent": true
+    }
+  ]
+}
